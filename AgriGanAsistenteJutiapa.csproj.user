@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AgriPredictForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AsistenteAgricolaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AsistenteGanaderoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\BackupRestoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FichasTecnicasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\MenuPrincipalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\RegistrarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\RegistroBDAgriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\RegistrosDatosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
